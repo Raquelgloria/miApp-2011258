@@ -11,4 +11,6 @@ export class ListaAlumnosComponent  implements OnInit {
 
   ngOnInit() {}
 
+  alumnos : any = ["Carlos", "Ximena", "Alberto", "Eduardo", "Baraba", "Georgina", "Kevin"];
 }
+
